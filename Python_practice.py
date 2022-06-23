@@ -1,3 +1,4 @@
-count = 7
-while count < 1:
-    print("Hello World")
+
+import datetime as dt   
+now = dt.datetime.now()
+print("The time right now is ", now)
