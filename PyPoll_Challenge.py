@@ -110,7 +110,7 @@ with open(file_to_save, "w") as txt_file:
     largest_county_summary = (
         f"-------------------------------------\n"
         f"Largest County: {largest_county}\n"
-        f"Largest County Total Votes: {largest_voter_count}\n"
+        f"Largest County Total Votes: {largest_voter_count:,}\n"
         f"-------------------------------------\n"
     )
     print(largest_county_summary, end="")
