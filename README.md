@@ -16,8 +16,8 @@ The following graphic shows a summary of the election results and covers the fol
 As you can see, this report can easily summarize the audit of almost 370,000 votes. This would require a long validation without this tool. For a service, this can be utilized across all counties in the state easily validate the election process. If needed, there is also code that can be modified to assist in other elections and other factors. 
 # Potential Adjustments #1: Add Information by Party
 Since there is a national impact, you may want to know the candidate and county by party. This can be updated with any additional information loaded to a raw CSV file. If added, the enhancement is as simple as teh following code:
-![Addition of Party Affiliation](https://github.com/NortonAAA/Election_Analysis/blob/main/Potential%Enhancement%1.png)
+![](https://github.com/NortonAAA/Election_Analysis/blob/main/Potential%Enhancement%1.png)
 # Potential Adjustments #2: Winner by County
 There may also be an interest to view which counties each candidate won in the state. This would require more coding but could be provided by the following output:
-![Output Line by County](https://github.com/NortonAAA/Election_Analysis/blob/main/Potential%Enhancement%2.png)
+![](https://github.com/NortonAAA/Election_Analysis/blob/main/Potential%Enhancement%2.png)
 Thank you for allowing us to demostrate this script and look forward to it's utialization in the future.
