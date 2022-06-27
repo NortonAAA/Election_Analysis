@@ -10,6 +10,7 @@ The following graphic shows a summary of the election results and covers the fol
 3) Largest County and total votes in that county
 4) Candidate percentage of vote and total votes
 5) Summary of the winner
+
 ![](https://github.com/NortonAAA/Election_Analysis/blob/main/Total_Election_Report.png)
 
 ## Election-Audit Summary
