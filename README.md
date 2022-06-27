@@ -20,4 +20,4 @@ Since there is a national impact, you may want to know the candidate and county 
 # Potential Adjustments #2: Winner by County
 There may also be an interest to view which counties each candidate won in the state. This would require more coding but could be provided by the following output:
 ![](https://github.com/NortonAAA/Election_Analysis/blob/main/Potential_Enhancement_2.png)
-Thank you for allowing us to demostrate this script and look forward to it's utialization in the future.
+Thank you for allowing us to demostrate this script and look forward to it's utilization in the future.
